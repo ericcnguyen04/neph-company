@@ -16,8 +16,17 @@ TBD
 ## General Approach
 
 ## Technologies Used
+- React
+- Mongoose
+- MongoDB
+- Node.js
+- Express.js
+- JSON Web Token
+- JWT decode
 
 ## User Stories
+- As a user, I want to be able to create, read, update, and delete a post
+- As a user, I want to comment other people's post and give a like
 
 ## MVP
 
