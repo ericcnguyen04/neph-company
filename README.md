@@ -1,7 +1,9 @@
 # NEPH Mattress Company
+This application is a passion project with a purpose of a social media platform with the inspiration of the community I was involved in. 
 
 ## Deploy Link
-beep
+TBD
+
 ## Wireframe
 
 ## RESTFUL Routing Chart
