@@ -5,7 +5,7 @@ This application is a passion project with a purpose of a social media platform 
 TBD
 
 ## Wireframe
-
+![Screenshot] (/public/readmeImg/erd.png)
 ## RESTFUL Routing Chart
 
 ## ERDs
