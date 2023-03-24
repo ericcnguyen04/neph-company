@@ -29,5 +29,10 @@ TBD
 - As a user, I want to comment other people's post and give a like
 
 ## MVP
+- Have users sign up in order to use NEPH
+- Make a feature to where users can create, edit, update, and delete their posts
+- Allow users to like posts
 
 ## Stretch goals
+- Provide good styling
+- Make a direct message feature
