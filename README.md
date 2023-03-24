@@ -6,9 +6,12 @@ TBD
 
 ## Wireframe
 ![Screenshot](/public/readmeImg/erd.png)
+
 ## RESTFUL Routing Chart
+![Screenshot](/public/readmeImg/restful.png)
 
 ## ERDs
+![Screenshot](/public/readmeImg/webframe.png)
 
 ## General Approach
 
