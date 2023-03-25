@@ -8,6 +8,9 @@
   /* border: 2px solid red; */
   display: flex;
   justify-content: space-evenly;
+  padding: 10px;
+  background-color: rgb(245, 201, 136);
+  border: 1px solid gray;
 }
 
 .link {
