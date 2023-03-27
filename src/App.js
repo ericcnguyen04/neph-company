@@ -9,12 +9,8 @@ import Navbar from './Components/partials/Navbar';
 function App() {
   return (
     <Router>
-
-      <div className='App'>
-        <Navbar />
-
-        ali and tea just in case
-      </div>
+      <Navbar />
+      ali and tea just in case
     </Router>
   );
 }
