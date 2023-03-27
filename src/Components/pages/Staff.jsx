@@ -11,23 +11,23 @@ export default function Staff() {
                 </center>
             </p>
 
-            <div>
-                <div>Amanda is CEO</div>
-                <div>Rhen is COO / COOM</div>
-                <div>Rickma is CFO</div>
-                <div>Frost is CIO / CISO</div>
-                <div>Ryuu is CTO</div>
-                <div>Matney is CCO</div>
-                <div>Adiv is CKO</div>
-                <div>Tea is CDO</div>
-                <div>OUR FAVORITE DOG IS CMO</div>
-                <div>Cameron is CSO</div>
-                <div>JohnIsMe is CAO</div>
-                <div>NotJames is CPO</div>
-                <div>Azlanii is CYPO</div>
-                <div>Treeynh is CHRO</div>
-                <div>Rachel is CYO</div>
-                <div>Jeruki is CBO</div>
+            <div className='staff'>
+                <div>AmandaCEO</div>
+                <div>RhenCOO / COOM</div>
+                <div>RickmaCFO</div>
+                <div>FrostCIO / CISO</div>
+                <div>RyuuCTO</div>
+                <div>MatneyCCO</div>
+                <div>AdivCKO</div>
+                <div>TeaCDO</div>
+                <div>OUR FAVORITE DOGCMO</div>
+                <div>CameronCSO</div>
+                <div>JohnIsMeCAO</div>
+                <div>NotJamesCPO</div>
+                <div>AzlaniiCYPO</div>
+                <div>TreeynhCHRO</div>
+                <div>RachelCYO</div>
+                <div>JerukiCBO</div>
             </div>
         </div>
     )

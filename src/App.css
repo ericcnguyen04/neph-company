@@ -24,3 +24,8 @@
   padding: 0px 25%;
   color: gray
 }
+
+.staff {
+  border: 2px solid red;
+  background-color: beige;
+}
