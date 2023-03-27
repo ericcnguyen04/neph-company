@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 // Components
 import Navbar from './Components/partials/Navbar';
+import Staff from './Components/pages/Staff';
 
 
 function App() {
@@ -12,7 +13,23 @@ function App() {
       <Navbar />
       ali and tea just in case
 
-      {/* home page / feed */}
+      <Routes>
+        {/* home page / feed */}
+
+        {/* search */}
+
+        {/* staff */}
+        <Route 
+          path="/staff"
+          element={<Staff />}
+          />
+
+        {/* profile */}
+
+        {/* login */}
+
+        {/* register */}
+      </Routes>
     </Router>
   );
 }
