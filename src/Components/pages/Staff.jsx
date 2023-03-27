@@ -12,22 +12,22 @@ export default function Staff() {
             </p>
 
             <ul>
-            <li>- Amanda is CEO</li>
-            <li>- Rhen is COO / COOM</li>
-            <li>- Rickma is CFO</li>
-            <li>- Frost is CIO / CISO</li>
-            <li>- Ryuu is CTO</li>
-            <li>- Matney is CCO</li>
-            <li>- Ali is CKO</li>
-            <li>- Tea is CDO</li>
-            <li>- OUR FAVORITE DOG :yogurt~1: IS CMO</li>
-            <li>- Cameron is CSO</li>
-            <li>- JohnIsMe is CAO</li>
-            <li>- NotJames is CPO</li>
-            <li>- Azlanii is CYPO</li>
-            <li>- Treeynh is CHRO</li>
-            <li>- Rachel is CYO</li>
-            <li>- Jeruki is CBO</li>
+            <div>Amanda is CEO</div>
+            <div>Rhen is COO / COOM</div>
+            <div>Rickma is CFO</div>
+            <div>Frost is CIO / CISO</div>
+            <div>Ryuu is CTO</div>
+            <div>Matney is CCO</div>
+            <div>Adiv is CKO</div>
+            <div>Tea is CDO</div>
+            <div>OUR FAVORITE DOG IS CMO</div>
+            <div>Cameron is CSO</div>
+            <div>JohnIsMe is CAO</div>
+            <div>NotJames is CPO</div>
+            <div>Azlanii is CYPO</div>
+            <div>Treeynh is CHRO</div>
+            <div>Rachel is CYO</div>
+            <div>Jeruki is CBO</div>
             </ul>
         </div>
     )
