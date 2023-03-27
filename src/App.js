@@ -11,7 +11,6 @@ function App() {
   return (
     <Router>
       <Navbar />
-      ali and tea just in case
 
       <Routes>
         {/* home page / feed */}
