@@ -11,6 +11,8 @@ function App() {
     <Router>
       <Navbar />
       ali and tea just in case
+
+      {/* home page / feed */}
     </Router>
   );
 }
