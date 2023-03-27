@@ -12,22 +12,22 @@ export default function Staff() {
             </p>
 
             <div className='staff'>
-                <div>AmandaCEO</div>
-                <div>RhenCOO / COOM</div>
-                <div>RickmaCFO</div>
-                <div>FrostCIO / CISO</div>
-                <div>RyuuCTO</div>
-                <div>MatneyCCO</div>
-                <div>AdivCKO</div>
-                <div>TeaCDO</div>
-                <div>OUR FAVORITE DOGCMO</div>
-                <div>CameronCSO</div>
-                <div>JohnIsMeCAO</div>
-                <div>NotJamesCPO</div>
-                <div>AzlaniiCYPO</div>
-                <div>TreeynhCHRO</div>
-                <div>RachelCYO</div>
-                <div>JerukiCBO</div>
+                <div>CEO Amanda</div>
+                <div>COO / COOM Rhen</div>
+                <div>CFO Rickma</div>
+                <div>CIO / CISO Frost</div>
+                <div>CTO Ryuu</div>
+                <div>CCO Matney</div>
+                <div>CKO Adiv</div>
+                <div>CDO Tea</div>
+                <div>CMO OUR FAVORITE DOG</div>
+                <div>CSO Cameron</div>
+                <div>CAO JohnIsMe</div>
+                <div>CPO NotJames</div>
+                <div>CYPO Azlanii</div>
+                <div>CHRO Treeynh</div>
+                <div>CYO Rachel</div>
+                <div>CBO Jeruki</div>
             </div>
         </div>
     )
