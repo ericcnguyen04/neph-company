@@ -9,7 +9,7 @@ export default function Staff() {
                 <strong>Attention: </strong>
                 Although this sucessful corporation founded on 2023 has a chain of command, the positions and entitlement has no meaning as all authoritative figures have equal power amongst one another. Why? Because we love Communism!
                 </center>
-            </p>cringe
+            </p>
 
             <div className='staff'>
                 <div className='staffrow'><h1>CEO</h1> Amanda</div>
