@@ -28,8 +28,12 @@
 .staff {
   border: 2px solid red;
   background-color: beige;
+  margin: 0 auto;
+  width: 80%;
 }
 
 .staffrow {
   background-color: rgb(252, 224, 177);
+  width: 80%;
+   
 }
