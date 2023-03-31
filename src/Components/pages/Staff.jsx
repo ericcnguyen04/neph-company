@@ -3,7 +3,7 @@ import '../../App.css'
 export default function Staff() {
     return (
         <div>
-            <h1><center>Welcome to man idkour NEPH Mattress Board of Directors</center></h1>
+            <h1><center>Welcome to our NEPH Mattress Board of Directors</center></h1>
             <p className='Discretion'>
                 <center>
                 <strong>Attention: </strong>
