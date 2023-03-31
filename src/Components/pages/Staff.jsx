@@ -7,7 +7,7 @@ export default function Staff() {
             <p className='Discretion'>
                 <center>
                 <strong>Attention: </strong>
-                Although this sucessful corporation dfounded on 2023 has a chain of command, the positions and entitlement has no meaning as all authoritative figures have equal power amongst one another. Why? Because we love Communism!
+                Although this sucessful corporation founded on 2023 has a chain of command, the positions and entitlement has no meaning as all authoritative figures have equal power amongst one another. Why? Because we love Communism!
                 </center>
             </p>
 
